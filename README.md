@@ -4,6 +4,10 @@ This project applies the Analytic Hierarchy Process (AHP) to evaluate and score 
 
 [![Open in Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AmberBellouDACSS690C/HW3_ahp/main?filepath=index.ipynb)
 
+## Live demo
+
+https://AmberBellouDACSS690C.github.io/HW3_ahp/
+
 
 ## Files
 - `comparisons.xlsx` — Excel file containing pairwise comparison matrices for criteria and alternatives.
