@@ -2,6 +2,9 @@
 
 This project applies the Analytic Hierarchy Process (AHP) to evaluate and score school alternatives based on multiple criteria.
 
+[![Open in Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AmberBellouDACSS690C/HW3_ahp/main?filepath=index.ipynb)
+
+
 ## Files
 - `comparisons.xlsx` — Excel file containing pairwise comparison matrices for criteria and alternatives.
 - `index.ipynb` — Jupyter Notebook performing AHP calculations: priority vectors, criteria weights, and final scores.
